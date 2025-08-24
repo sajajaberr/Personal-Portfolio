@@ -1,3 +1,3 @@
-# Purpose of this Folder
-
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
+## Udacity Projects (Front End Developer course)
+## Project3: Personal Portfolio
+In this project, I simulated DOM manipulation using JavaScript, applying course concepts and research skills to build a strong foundation for dynamic web development and problem-solving.
